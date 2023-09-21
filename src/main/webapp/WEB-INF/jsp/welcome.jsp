@@ -4,6 +4,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 
 <html lang="en">
+<%@ include file="head.jsp"%>
 <head>
 <style>
 table {
@@ -20,6 +21,7 @@ td, th {
 </style>
 </head>
 <body>
+<%@ include file="menu.jsp"%>
 <div style="margin-top:50px; text-align:center; height:50px;">
 				<h3>Participant List</h3>
 				<hr>

@@ -23,7 +23,7 @@ public class GlobalController {
 		return "welcome";
 	}
 
-	@GetMapping("/welcome")
+	@GetMapping("/ParticipantList")
 	public String welcome(Map<String, Object> model) {
 		List<Person> personList = personService.getAllPersons();
 		model.put("personList",personList);
