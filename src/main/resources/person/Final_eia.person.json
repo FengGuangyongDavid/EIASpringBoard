@@ -1,0 +1,9333 @@
+[
+  {
+    "caseManagement": {
+      "S": "Financial"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Grant"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0270"
+    },
+    "nameOfProvider": {
+      "S": "The DSAMH Bridge Clinic"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Tracy"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "reentry"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230709"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "80"
+    },
+    "cabinNo": {
+      "S": "26"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "N"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "99"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Pet care"
+    },
+    "endDate": {
+      "N": "20230815"
+    },
+    "lastName": {
+      "S": "Dawson"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0234"
+    },
+    "nameOfProvider": {
+      "S": "The DSAMH Bridge Clinic"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Margaret"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Employment Help"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "38"
+    },
+    "cabinNo": {
+      "S": "25"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "63"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "FSCAA"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Fisher"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0263"
+    },
+    "nameOfProvider": {
+      "S": "NET Centers"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Abigail"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Physical health"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230702"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "60"
+    },
+    "cabinNo": {
+      "S": "19"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "92"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Pet care"
+    },
+    "endDate": {
+      "N": "20230816"
+    },
+    "lastName": {
+      "S": "Dixon"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0235"
+    },
+    "nameOfProvider": {
+      "S": "PROMISE"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Emma"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "39"
+    },
+    "cabinNo": {
+      "S": "26"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "64"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Substanec use"
+    },
+    "endDate": {
+      "N": "20230912"
+    },
+    "lastName": {
+      "S": "Brown"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0207"
+    },
+    "nameOfProvider": {
+      "S": "RHD"
+    },
+    "decidedMove": {
+      "S": "Y"
+    },
+    "firstName": {
+      "S": "Anner"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "66"
+    },
+    "cabinNo": {
+      "S": "2"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "36"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "20230925"
+    },
+    "lastName": {
+      "S": "Holmes"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0220"
+    },
+    "nameOfProvider": {
+      "S": "PROMISE"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Lorichia"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "connection to services"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "24"
+    },
+    "cabinNo": {
+      "S": "11"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "49"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Mental health"
+    },
+    "endDate": {
+      "N": "20230909"
+    },
+    "lastName": {
+      "S": "Booth"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0204"
+    },
+    "nameOfProvider": {
+      "S": "Act Team"
+    },
+    "decidedMove": {
+      "S": "Y"
+    },
+    "firstName": {
+      "S": "Jeff"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Financial"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "63"
+    },
+    "cabinNo": {
+      "S": "30"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "33"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "20230828"
+    },
+    "lastName": {
+      "S": "Allen"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0193"
+    },
+    "nameOfProvider": {
+      "S": "LA Red Health Center"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Becca"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Social Security Disability"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230222"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "52"
+    },
+    "cabinNo": {
+      "S": "19"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "22"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Substanec use"
+    },
+    "endDate": {
+      "N": "20230824"
+    },
+    "lastName": {
+      "S": "Griffiths"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0189"
+    },
+    "nameOfProvider": {
+      "S": "AMF"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Undre"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230218"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "27"
+    },
+    "cabinNo": {
+      "S": "15"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "18"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Mental health"
+    },
+    "endDate": {
+      "N": "20230926"
+    },
+    "lastName": {
+      "S": "Howard"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0221"
+    },
+    "nameOfProvider": {
+      "S": "Act Team"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Stacy"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Employment Help"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "25"
+    },
+    "cabinNo": {
+      "S": "12"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "Y"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "50"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Mental health"
+    },
+    "endDate": {
+      "N": "20230822"
+    },
+    "lastName": {
+      "S": "Gray"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0187"
+    },
+    "nameOfProvider": {
+      "S": "Act Team"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Faith"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230216"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "25"
+    },
+    "cabinNo": {
+      "S": "13"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "16"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "20230916"
+    },
+    "lastName": {
+      "S": "Carter"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0211"
+    },
+    "nameOfProvider": {
+      "S": "Marigold"
+    },
+    "decidedMove": {
+      "S": "Y"
+    },
+    "firstName": {
+      "S": "Margaret"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "70"
+    },
+    "cabinNo": {
+      "S": "4"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "Y"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "40"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Elliott"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0261"
+    },
+    "nameOfProvider": {
+      "S": "LA Red Health Center"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Jessica"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Substanec use"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230501"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "65"
+    },
+    "cabinNo": {
+      "S": "17"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "90"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "closed out from FSCAA"
+    },
+    "endDate": {
+      "N": "20230812"
+    },
+    "lastName": {
+      "S": "Davidson"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0177"
+    },
+    "nameOfProvider": {
+      "S": "RHD"
+    },
+    "decidedMove": {
+      "S": "Y"
+    },
+    "firstName": {
+      "S": "Tom"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "MHProvider": {
+      "S": "in need"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "36"
+    },
+    "cabinNo": {
+      "S": "2"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "Y"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "Alcohol"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "AWF"
+    },
+    "SUDProvider": {
+      "S": "AWF"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "Y"
+    },
+    "permanentHouse": {
+      "S": "Y"
+    },
+    "inMentalHealthTreatment": {
+      "S": "Y"
+    },
+    "personId": {
+      "S": "2"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Pet care"
+    },
+    "endDate": {
+      "N": "20230819"
+    },
+    "lastName": {
+      "S": "Gibson"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0184"
+    },
+    "nameOfProvider": {
+      "S": "PROMISE"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Luiz"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230213"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "22"
+    },
+    "cabinNo": {
+      "S": "10"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "13"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "20230930"
+    },
+    "lastName": {
+      "S": "Jackson"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0225"
+    },
+    "nameOfProvider": {
+      "S": "FSCAA"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Jackson"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Physical health"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "29"
+    },
+    "cabinNo": {
+      "S": "16"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "54"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Financial"
+    },
+    "endDate": {
+      "N": "20230901"
+    },
+    "lastName": {
+      "S": "Hall"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0250"
+    },
+    "nameOfProvider": {
+      "S": "Joyfully Connected Foundation"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Joanne"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "54"
+    },
+    "cabinNo": {
+      "S": "6"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "79"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Mental Health"
+    },
+    "endDate": {
+      "N": "20230814"
+    },
+    "lastName": {
+      "S": "Fisher"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0179"
+    },
+    "nameOfProvider": {
+      "S": "Brandwine Valley SPCA"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Denise"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Financial"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230208"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "17"
+    },
+    "cabinNo": {
+      "S": "5"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "8"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "20230818"
+    },
+    "lastName": {
+      "S": "Elliott"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0237"
+    },
+    "nameOfProvider": {
+      "S": "PROMISE"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Olivia"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Substanec use"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "41"
+    },
+    "cabinNo": {
+      "S": "28"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "66"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Financial"
+    },
+    "endDate": {
+      "N": "20230924"
+    },
+    "lastName": {
+      "S": "Hill"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0219"
+    },
+    "nameOfProvider": {
+      "S": "The DSAMH Bridge Clinic"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Kevin"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "reentry"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "23"
+    },
+    "cabinNo": {
+      "S": "10"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "48"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Substanec use"
+    },
+    "endDate": {
+      "N": "20230815"
+    },
+    "lastName": {
+      "S": "Fletcher"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0180"
+    },
+    "nameOfProvider": {
+      "S": "Bone and Yam"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "James"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Physical health"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230209"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "18"
+    },
+    "cabinNo": {
+      "S": "6"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "9"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Mental Health"
+    },
+    "endDate": {
+      "N": "20230812"
+    },
+    "lastName": {
+      "S": "Jones"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0230"
+    },
+    "nameOfProvider": {
+      "S": "Brandwine Valley SPCA"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Brian"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Employment Help"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "34"
+    },
+    "cabinNo": {
+      "S": "21"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "59"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "closed out from FSCAA"
+    },
+    "endDate": {
+      "N": "20230812"
+    },
+    "lastName": {
+      "S": "Davies"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0177"
+    },
+    "nameOfProvider": {
+      "S": "FHR"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Becky S"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "MHProvider": {
+      "S": "in need"
+    },
+    "need": {
+      "S": "Mental Health"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230202"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "30"
+    },
+    "cabinNo": {
+      "S": "1"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "Y"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "Alcohol"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "AWF"
+    },
+    "SUDProvider": {
+      "S": "AWF"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "Y"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "Y"
+    },
+    "personId": {
+      "S": "1"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Financial"
+    },
+    "endDate": {
+      "N": "20230907"
+    },
+    "lastName": {
+      "S": "Bell"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0202"
+    },
+    "nameOfProvider": {
+      "S": "The DSAMH Bridge Clinic"
+    },
+    "decidedMove": {
+      "S": "Y"
+    },
+    "firstName": {
+      "S": "James"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Pet care"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "61"
+    },
+    "cabinNo": {
+      "S": "28"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "31"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Pet care"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Hamilton"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0251"
+    },
+    "nameOfProvider": {
+      "S": "The DSAMH Bridge Clinic"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Ava"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "55"
+    },
+    "cabinNo": {
+      "S": "7"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "80"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "closed out from FSCAA"
+    },
+    "endDate": {
+      "N": "20230812"
+    },
+    "lastName": {
+      "S": "Dawson"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0177"
+    },
+    "nameOfProvider": {
+      "S": "FSCAA"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Darrie"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "MHProvider": {
+      "S": "in need"
+    },
+    "need": {
+      "S": "Substanec use"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230203"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "30"
+    },
+    "cabinNo": {
+      "S": "6"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "Y"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "Alcohol"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "AWF"
+    },
+    "SUDProvider": {
+      "S": "AWF"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "Y"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "Y"
+    },
+    "personId": {
+      "S": "6"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Financial"
+    },
+    "endDate": {
+      "N": "20230814"
+    },
+    "lastName": {
+      "S": "Davies"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0233"
+    },
+    "nameOfProvider": {
+      "S": "Joyfully Connected Foundation"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Amelia"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "connection to services"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "37"
+    },
+    "cabinNo": {
+      "S": "24"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "62"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Substanec use"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "T"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0258"
+    },
+    "nameOfProvider": {
+      "S": "RHD"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Victoria"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "connection to services"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230501"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "62"
+    },
+    "cabinNo": {
+      "S": "14"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "87"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "FSCAA"
+    },
+    "endDate": {
+      "N": "20230827"
+    },
+    "lastName": {
+      "S": "Grant"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0246"
+    },
+    "nameOfProvider": {
+      "S": "NET Centers"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Elizabeth"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "50"
+    },
+    "cabinNo": {
+      "S": "4"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "Y"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "75"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Mental Health"
+    },
+    "endDate": {
+      "N": "20230828"
+    },
+    "lastName": {
+      "S": "Gray"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0247"
+    },
+    "nameOfProvider": {
+      "S": "Brandwine Valley SPCA"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "lsabella"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "51"
+    },
+    "cabinNo": {
+      "S": "3"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "Y"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "76"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Pet care"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Gibson"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0268"
+    },
+    "nameOfProvider": {
+      "S": "The DSAMH Bridge Clinic"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Jessica"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Employment Help"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230707"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "60"
+    },
+    "cabinNo": {
+      "S": "24"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "97"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Mental health"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Armstrong"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0255"
+    },
+    "nameOfProvider": {
+      "S": "Act Team"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Mia"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Employment Help"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230501"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "59"
+    },
+    "cabinNo": {
+      "S": "11"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "84"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Substanec use"
+    },
+    "endDate": {
+      "N": "20230812"
+    },
+    "lastName": {
+      "S": "Kelly"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0231"
+    },
+    "nameOfProvider": {
+      "S": "Bone and Yam"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Rahman"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Social Security Disability"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "35"
+    },
+    "cabinNo": {
+      "S": "22"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "Y"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "60"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Peer Support"
+    },
+    "endDate": {
+      "N": "20230813"
+    },
+    "lastName": {
+      "S": "Kennedy"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0232"
+    },
+    "nameOfProvider": {
+      "S": "Del-One Credit Union"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Dainel"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "reentry"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "36"
+    },
+    "cabinNo": {
+      "S": "23"
+    },
+    "exitByRuleViolations": {
+      "S": "Y"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "Y"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "61"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "20230914"
+    },
+    "lastName": {
+      "S": "Butler"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0209"
+    },
+    "nameOfProvider": {
+      "S": "LA Red Health Center"
+    },
+    "decidedMove": {
+      "S": "Y"
+    },
+    "firstName": {
+      "S": "Kristen"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "68"
+    },
+    "cabinNo": {
+      "S": "6"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "38"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Financial"
+    },
+    "endDate": {
+      "N": "20230904"
+    },
+    "lastName": {
+      "S": "Ball"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0199"
+    },
+    "nameOfProvider": {
+      "S": "Joyfully Connected Foundation"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Jacob"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Substanec use"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230228"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "58"
+    },
+    "cabinNo": {
+      "S": "25"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "28"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Harris"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0260"
+    },
+    "nameOfProvider": {
+      "S": "LA Red Health Center"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Susan"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Mental health"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230501"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "64"
+    },
+    "cabinNo": {
+      "S": "16"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "89"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Substanec use"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Ford"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0265"
+    },
+    "nameOfProvider": {
+      "S": "Bone and Yam"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Lily"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Employment Help"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230704"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "60"
+    },
+    "cabinNo": {
+      "S": "21"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "94"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Pet care"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Graham"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0269"
+    },
+    "nameOfProvider": {
+      "S": "PROMISE"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Sophie"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Social Security Disability"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230708"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "60"
+    },
+    "cabinNo": {
+      "S": "25"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "98"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Substanec use"
+    },
+    "endDate": {
+      "N": "20230929"
+    },
+    "lastName": {
+      "S": "Hunter"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0224"
+    },
+    "nameOfProvider": {
+      "S": "RHD"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Lloyd"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Substanec use"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "28"
+    },
+    "cabinNo": {
+      "S": "15"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "53"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Financial"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Allen"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0253"
+    },
+    "nameOfProvider": {
+      "S": "The DSAMH Bridge Clinic"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Ava"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230501"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "57"
+    },
+    "cabinNo": {
+      "S": "9"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "82"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Pet care"
+    },
+    "endDate": {
+      "N": "20230906"
+    },
+    "lastName": {
+      "S": "Barnes"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0201"
+    },
+    "nameOfProvider": {
+      "S": "PROMISE"
+    },
+    "decidedMove": {
+      "S": "Y"
+    },
+    "firstName": {
+      "S": "Jackie"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Financial"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "60"
+    },
+    "cabinNo": {
+      "S": "27"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "30"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Substanec use"
+    },
+    "endDate": {
+      "N": "20230911"
+    },
+    "lastName": {
+      "S": "Brooks"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0206"
+    },
+    "nameOfProvider": {
+      "S": "AMF"
+    },
+    "decidedMove": {
+      "S": "Y"
+    },
+    "firstName": {
+      "S": "Jessica"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Mental health"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "65"
+    },
+    "cabinNo": {
+      "S": "32"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "35"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Substanec use"
+    },
+    "endDate": {
+      "N": "20230928"
+    },
+    "lastName": {
+      "S": "Hunt"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0223"
+    },
+    "nameOfProvider": {
+      "S": "AMF"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Matt"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Substanec use"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "27"
+    },
+    "cabinNo": {
+      "S": "14"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "52"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "FSCAA"
+    },
+    "endDate": {
+      "N": "20230830"
+    },
+    "lastName": {
+      "S": "Armstrong"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0195"
+    },
+    "nameOfProvider": {
+      "S": "NET Centers"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Joy"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "connection to services"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230224"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "54"
+    },
+    "cabinNo": {
+      "S": "21"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "24"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Substanec use"
+    },
+    "endDate": {
+      "N": "20230829"
+    },
+    "lastName": {
+      "S": "Green"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0248"
+    },
+    "nameOfProvider": {
+      "S": "Bone and Yam"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Elizabeth"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "52"
+    },
+    "cabinNo": {
+      "S": "4"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "77"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Evans"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0262"
+    },
+    "nameOfProvider": {
+      "S": "Marigold"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Lauren"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Substanec use"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230701"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "66"
+    },
+    "cabinNo": {
+      "S": "18"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "91"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Pet care"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Harris"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0252"
+    },
+    "nameOfProvider": {
+      "S": "PROMISE"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Linda"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230501"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "56"
+    },
+    "cabinNo": {
+      "S": "8"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "81"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Notta"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0259"
+    },
+    "nameOfProvider": {
+      "S": "FSCAA"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Emily"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Employment Help"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230501"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "63"
+    },
+    "cabinNo": {
+      "S": "15"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "88"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Peer Support"
+    },
+    "endDate": {
+      "N": "20230903"
+    },
+    "lastName": {
+      "S": "Baker"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0198"
+    },
+    "nameOfProvider": {
+      "S": "Del-One Credit Union"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Katie"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Mental Health"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230227"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "57"
+    },
+    "cabinNo": {
+      "S": "24"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "27"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Financial"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Fox"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0267"
+    },
+    "nameOfProvider": {
+      "S": "Joyfully Connected Foundation"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Madison"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Elderly"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230706"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "60"
+    },
+    "cabinNo": {
+      "S": "23"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "96"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "20230823"
+    },
+    "lastName": {
+      "S": "Foster"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0242"
+    },
+    "nameOfProvider": {
+      "S": "FSCAA"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Bethany"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Financial"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "46"
+    },
+    "cabinNo": {
+      "S": "2"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "71"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "closed out from FSCAA"
+    },
+    "endDate": {
+      "N": "20230812"
+    },
+    "lastName": {
+      "S": "Dixon"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0177"
+    },
+    "nameOfProvider": {
+      "S": "LA Red Health Center"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Francyne"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "MHProvider": {
+      "S": "in need"
+    },
+    "need": {
+      "S": "Peer Support"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230204"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "30"
+    },
+    "cabinNo": {
+      "S": "5"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "Y"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "Alcohol"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "AWF"
+    },
+    "SUDProvider": {
+      "S": "AWF"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "Y"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "Y"
+    },
+    "personId": {
+      "S": "5"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "closed out from FSCAA"
+    },
+    "endDate": {
+      "N": "20230812"
+    },
+    "lastName": {
+      "S": "Edwards"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0177"
+    },
+    "nameOfProvider": {
+      "S": "LA Red Health Center"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Jenn"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "MHProvider": {
+      "S": "in need"
+    },
+    "need": {
+      "S": "Financial"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230205"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "30"
+    },
+    "cabinNo": {
+      "S": "4"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "Y"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "Alcohol"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "AWF"
+    },
+    "SUDProvider": {
+      "S": "AWF"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "Y"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "Y"
+    },
+    "personId": {
+      "S": "4"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Peer Support"
+    },
+    "endDate": {
+      "N": "20230920"
+    },
+    "lastName": {
+      "S": "Harris"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0215"
+    },
+    "nameOfProvider": {
+      "S": "Del-One Credit Union"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Caryn"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "19"
+    },
+    "cabinNo": {
+      "S": "6"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "44"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Peer Support"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Foster"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0266"
+    },
+    "nameOfProvider": {
+      "S": "Del-One Credit Union"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Michelle"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Social Security Disability"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230705"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "60"
+    },
+    "cabinNo": {
+      "S": "22"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "95"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "20230908"
+    },
+    "lastName": {
+      "S": "Bennett"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0203"
+    },
+    "nameOfProvider": {
+      "S": "PROMISE"
+    },
+    "decidedMove": {
+      "S": "Y"
+    },
+    "firstName": {
+      "S": "Anthony"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Pet care"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "62"
+    },
+    "cabinNo": {
+      "S": "29"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "Y"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "32"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "FSCAA"
+    },
+    "endDate": {
+      "N": "20230917"
+    },
+    "lastName": {
+      "S": "Chapman"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0212"
+    },
+    "nameOfProvider": {
+      "S": "NET Centers"
+    },
+    "decidedMove": {
+      "S": "Y"
+    },
+    "firstName": {
+      "S": "Clyde"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "71"
+    },
+    "cabinNo": {
+      "S": "3"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "41"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Mental health"
+    },
+    "endDate": {
+      "N": "20230927"
+    },
+    "lastName": {
+      "S": "Hughes"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0222"
+    },
+    "nameOfProvider": {
+      "S": "Brandwine Counseling and Community Services"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Gene"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Mental health"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "26"
+    },
+    "cabinNo": {
+      "S": "13"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "51"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Gray"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0271"
+    },
+    "nameOfProvider": {
+      "S": "PROMISE"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Charlotte"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "connection to services"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230710"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "60"
+    },
+    "cabinNo": {
+      "S": "27"
+    },
+    "exitByRuleViolations": {
+      "S": "Y"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "100"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Peer Support"
+    },
+    "endDate": {
+      "N": "20230830"
+    },
+    "lastName": {
+      "S": "Griffiths"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0249"
+    },
+    "nameOfProvider": {
+      "S": "Del-One Credit Union"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Poppy"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "53"
+    },
+    "cabinNo": {
+      "S": "5"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "78"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Anderson"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0254"
+    },
+    "nameOfProvider": {
+      "S": "PROMISE"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Megan"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Elderly"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230501"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "58"
+    },
+    "cabinNo": {
+      "S": "10"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "83"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Mental health"
+    },
+    "endDate": {
+      "N": "20230820"
+    },
+    "lastName": {
+      "S": "Fisher"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0239"
+    },
+    "nameOfProvider": {
+      "S": "Brandwine Counseling and Community Services"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Olivia"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Financial"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "43"
+    },
+    "cabinNo": {
+      "S": "30"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "68"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Financial"
+    },
+    "endDate": {
+      "N": "20230817"
+    },
+    "lastName": {
+      "S": "Edwards"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0236"
+    },
+    "nameOfProvider": {
+      "S": "The DSAMH Bridge Clinic"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Mary"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Mental Health"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "40"
+    },
+    "cabinNo": {
+      "S": "27"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "65"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Mental health"
+    },
+    "endDate": {
+      "N": "20230910"
+    },
+    "lastName": {
+      "S": "Bradley"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0205"
+    },
+    "nameOfProvider": {
+      "S": "Brandwine Counseling and Community Services"
+    },
+    "decidedMove": {
+      "S": "Y"
+    },
+    "firstName": {
+      "S": "Wendy"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Physical health"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "64"
+    },
+    "cabinNo": {
+      "S": "31"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "34"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Mental health"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Green"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0272"
+    },
+    "nameOfProvider": {
+      "S": "Act Team"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Sarah"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Employment Help"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230711"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "90"
+    },
+    "cabinNo": {
+      "S": "28"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "N"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "101"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "20230829"
+    },
+    "lastName": {
+      "S": "Anderson"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0194"
+    },
+    "nameOfProvider": {
+      "S": "Marigold"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Derek"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "reentry"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230223"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "53"
+    },
+    "cabinNo": {
+      "S": "20"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "23"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "FSCAA"
+    },
+    "endDate": {
+      "N": "20230812"
+    },
+    "lastName": {
+      "S": "Johnston"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0229"
+    },
+    "nameOfProvider": {
+      "S": "NET Centers"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Adrriiana"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Elderly"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "33"
+    },
+    "cabinNo": {
+      "S": "20"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "58"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Pet care"
+    },
+    "endDate": {
+      "N": "20230922"
+    },
+    "lastName": {
+      "S": "Harvey"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0217"
+    },
+    "nameOfProvider": {
+      "S": "The DSAMH Bridge Clinic"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Michael"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Employment Help"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "21"
+    },
+    "cabinNo": {
+      "S": "8"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "46"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Substanec use"
+    },
+    "endDate": {
+      "N": "20230825"
+    },
+    "lastName": {
+      "S": "Hall"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0190"
+    },
+    "nameOfProvider": {
+      "S": "RHD"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Undra"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230219"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "28"
+    },
+    "cabinNo": {
+      "S": "16"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "19"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Substanec use"
+    },
+    "endDate": {
+      "N": "20230902"
+    },
+    "lastName": {
+      "S": "Bailey"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0197"
+    },
+    "nameOfProvider": {
+      "S": "Bone and Yam"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Joyce"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230226"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "56"
+    },
+    "cabinNo": {
+      "S": "23"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "26"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "20230812"
+    },
+    "lastName": {
+      "S": "James"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0226"
+    },
+    "nameOfProvider": {
+      "S": "LA Red Health Center"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Jeff"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Physical health"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "30"
+    },
+    "cabinNo": {
+      "S": "17"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "55"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "FSCAA"
+    },
+    "endDate": {
+      "N": "20230813"
+    },
+    "lastName": {
+      "S": "Evans"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0178"
+    },
+    "nameOfProvider": {
+      "S": "NET Centers"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "William"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Pet care"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230207"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "16"
+    },
+    "cabinNo": {
+      "S": "4"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "SUDProvider": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "7"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "20230812"
+    },
+    "lastName": {
+      "S": "Jenkins"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0227"
+    },
+    "nameOfProvider": {
+      "S": "LA Red Health Center"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Eddie"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "31"
+    },
+    "cabinNo": {
+      "S": "18"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "56"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Financial"
+    },
+    "endDate": {
+      "N": "20230817"
+    },
+    "lastName": {
+      "S": "Foster"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0182"
+    },
+    "nameOfProvider": {
+      "S": "Joyfully Connected Foundation"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Anthony"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230211"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "20"
+    },
+    "cabinNo": {
+      "S": "8"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "11"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "closed out from FSCAA"
+    },
+    "endDate": {
+      "N": "20230812"
+    },
+    "lastName": {
+      "S": "Elliott"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0177"
+    },
+    "nameOfProvider": {
+      "S": "Marigold"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Billy"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "MHProvider": {
+      "S": "in need"
+    },
+    "need": {
+      "S": "Pet care"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230206"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "30"
+    },
+    "cabinNo": {
+      "S": "3"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "Y"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "Alcohol"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "AWF"
+    },
+    "SUDProvider": {
+      "S": "AWF"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "Y"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "Y"
+    },
+    "personId": {
+      "S": "3"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Substanec use"
+    },
+    "endDate": {
+      "N": "20230822"
+    },
+    "lastName": {
+      "S": "Ford"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0241"
+    },
+    "nameOfProvider": {
+      "S": "RHD"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "lsla"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Pet care"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "45"
+    },
+    "cabinNo": {
+      "S": "32"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "70"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Mental health"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Atkinson"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0256"
+    },
+    "nameOfProvider": {
+      "S": "Brandwine Counseling and Community Services"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Barbara"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Social Security Disability"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230501"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "60"
+    },
+    "cabinNo": {
+      "S": "12"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "85"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Substanec use"
+    },
+    "endDate": {
+      "N": "20230821"
+    },
+    "lastName": {
+      "S": "Fletcher"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0240"
+    },
+    "nameOfProvider": {
+      "S": "AMF"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Patricia"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Pet care"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "44"
+    },
+    "cabinNo": {
+      "S": "31"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "69"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "20230826"
+    },
+    "lastName": {
+      "S": "Hamilton"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0191"
+    },
+    "nameOfProvider": {
+      "S": "FSCAA"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Mary"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Elderly"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230220"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "50"
+    },
+    "cabinNo": {
+      "S": "17"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "Y"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "20"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "20230915"
+    },
+    "lastName": {
+      "S": "Campbell"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0210"
+    },
+    "nameOfProvider": {
+      "S": "LA Red Health Center"
+    },
+    "decidedMove": {
+      "S": "Y"
+    },
+    "firstName": {
+      "S": "Eunice"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "69"
+    },
+    "cabinNo": {
+      "S": "5"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "39"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Financial"
+    },
+    "endDate": {
+      "N": "20230921"
+    },
+    "lastName": {
+      "S": "Harrison"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0216"
+    },
+    "nameOfProvider": {
+      "S": "Joyfully Connected Foundation"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Austin"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Elderly"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "20"
+    },
+    "cabinNo": {
+      "S": "7"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "Y"
+    },
+    "documentationAssistance": {
+      "S": "Y"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "45"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "20230826"
+    },
+    "lastName": {
+      "S": "Graham"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0245"
+    },
+    "nameOfProvider": {
+      "S": "Marigold"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Emily"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "49"
+    },
+    "cabinNo": {
+      "S": "5"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "74"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "20230913"
+    },
+    "lastName": {
+      "S": "Burton"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0208"
+    },
+    "nameOfProvider": {
+      "S": "FSCAA"
+    },
+    "decidedMove": {
+      "S": "Y"
+    },
+    "firstName": {
+      "S": "Kevin"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "67"
+    },
+    "cabinNo": {
+      "S": "1"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "37"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Mental Health"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Fletcher"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0264"
+    },
+    "nameOfProvider": {
+      "S": "Brandwine Valley SPCA"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Margaret"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Elderly"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230703"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "60"
+    },
+    "cabinNo": {
+      "S": "20"
+    },
+    "exitByRuleViolations": {
+      "S": "Y"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "93"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Pet care"
+    },
+    "endDate": {
+      "N": "20230905"
+    },
+    "lastName": {
+      "S": "Barker"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0200"
+    },
+    "nameOfProvider": {
+      "S": "The DSAMH Bridge Clinic"
+    },
+    "decidedMove": {
+      "S": "Y"
+    },
+    "firstName": {
+      "S": "Freddy"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Peer Support"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "59"
+    },
+    "cabinNo": {
+      "S": "26"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "Y"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "29"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Substanec use"
+    },
+    "endDate": {
+      "N": "99999999"
+    },
+    "lastName": {
+      "S": "Bailey"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0257"
+    },
+    "nameOfProvider": {
+      "S": "AMF"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "lsabella"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "reentry"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230501"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "61"
+    },
+    "cabinNo": {
+      "S": "13"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "86"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "20230827"
+    },
+    "lastName": {
+      "S": "Harris"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0192"
+    },
+    "nameOfProvider": {
+      "S": "LA Red Health Center"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Caryn"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Employment Help"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230221"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "51"
+    },
+    "cabinNo": {
+      "S": "18"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "21"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Mental Health"
+    },
+    "endDate": {
+      "N": "20230901"
+    },
+    "lastName": {
+      "S": "Atkinson"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0196"
+    },
+    "nameOfProvider": {
+      "S": "Brandwine Valley SPCA"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Bobby"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Employment Help"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230225"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "55"
+    },
+    "cabinNo": {
+      "S": "22"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "25"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Pet care"
+    },
+    "endDate": {
+      "N": "20230818"
+    },
+    "lastName": {
+      "S": "Fox"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0183"
+    },
+    "nameOfProvider": {
+      "S": "The DSAMH Bridge Clinic"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Joy"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230212"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "21"
+    },
+    "cabinNo": {
+      "S": "9"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "12"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Mental health"
+    },
+    "endDate": {
+      "N": "20230823"
+    },
+    "lastName": {
+      "S": "Green"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0188"
+    },
+    "nameOfProvider": {
+      "S": "Brandwine Counseling and Community Services"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Alonzo"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230217"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "26"
+    },
+    "cabinNo": {
+      "S": "14"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "17"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Mental health"
+    },
+    "endDate": {
+      "N": "20230819"
+    },
+    "lastName": {
+      "S": "Evans"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0238"
+    },
+    "nameOfProvider": {
+      "S": "Act Team"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Samantha"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Peer Support"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "42"
+    },
+    "cabinNo": {
+      "S": "29"
+    },
+    "exitByRuleViolations": {
+      "S": "Y"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "67"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Peer Support"
+    },
+    "endDate": {
+      "N": "20230816"
+    },
+    "lastName": {
+      "S": "Ford"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0181"
+    },
+    "nameOfProvider": {
+      "S": "Del-One Credit Union"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Tom"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Mental health"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230210"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "19"
+    },
+    "cabinNo": {
+      "S": "7"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "10"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "20230812"
+    },
+    "lastName": {
+      "S": "Johnson"
+    },
+    "cabinStatus": {
+      "S": "inactive"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0228"
+    },
+    "nameOfProvider": {
+      "S": "Marigold"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Craig"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "32"
+    },
+    "cabinNo": {
+      "S": "19"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "57"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Pet care"
+    },
+    "endDate": {
+      "N": "20230923"
+    },
+    "lastName": {
+      "S": "Henderson"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0218"
+    },
+    "nameOfProvider": {
+      "S": "PROMISE"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Lindsay"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Social Security Disability"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "22"
+    },
+    "cabinNo": {
+      "S": "9"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "47"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "20230821"
+    },
+    "lastName": {
+      "S": "Grant"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0186"
+    },
+    "nameOfProvider": {
+      "S": "PROMISE"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Joseph"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230215"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "24"
+    },
+    "cabinNo": {
+      "S": "12"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "15"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Mental Health"
+    },
+    "endDate": {
+      "N": "20230918"
+    },
+    "lastName": {
+      "S": "Hall"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0213"
+    },
+    "nameOfProvider": {
+      "S": "Brandwine Valley SPCA"
+    },
+    "decidedMove": {
+      "S": "Y"
+    },
+    "firstName": {
+      "S": "Undra"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "72"
+    },
+    "cabinNo": {
+      "S": "4"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "42"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Substanec use"
+    },
+    "endDate": {
+      "N": "20230919"
+    },
+    "lastName": {
+      "S": "Hamilton"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0214"
+    },
+    "nameOfProvider": {
+      "S": "Bone and Yam"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Mary"
+    },
+    "achievements": {
+      "S": "GED attained"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "Y"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "18"
+    },
+    "cabinNo": {
+      "S": "5"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "43"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Financial"
+    },
+    "endDate": {
+      "N": "20230820"
+    },
+    "lastName": {
+      "S": "Graham"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0185"
+    },
+    "nameOfProvider": {
+      "S": "The DSAMH Bridge Clinic"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Jaime"
+    },
+    "achievements": {
+      "S": "Bank account opened"
+    },
+    "need": {
+      "S": "Life Skills"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230214"
+    },
+    "historyOfUse": {
+      "S": "N"
+    },
+    "age": {
+      "N": "23"
+    },
+    "cabinNo": {
+      "S": "11"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "Y"
+    },
+    "documentationAssistance": {
+      "S": "Y"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Male"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "White"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "14"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "20230824"
+    },
+    "lastName": {
+      "S": "Fox"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0243"
+    },
+    "nameOfProvider": {
+      "S": "LA Red Health Center"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Sophia"
+    },
+    "achievements": {
+      "S": "newly employed"
+    },
+    "need": {
+      "S": "Physical health"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "47"
+    },
+    "cabinNo": {
+      "S": "1"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "72"
+    }
+  },
+  {
+    "caseManagement": {
+      "S": "Physical health"
+    },
+    "endDate": {
+      "N": "20230825"
+    },
+    "lastName": {
+      "S": "Gibson"
+    },
+    "cabinStatus": {
+      "S": "active"
+    },
+    "previousUser": {
+      "S": "Y"
+    },
+    "activeUser": {
+      "S": "Y"
+    },
+    "phoneNo": {
+      "S": "302-245-0244"
+    },
+    "nameOfProvider": {
+      "S": "LA Red Health Center"
+    },
+    "decidedMove": {
+      "S": "N"
+    },
+    "firstName": {
+      "S": "Jennifer"
+    },
+    "achievements": {
+      "S": "training programs"
+    },
+    "need": {
+      "S": "Mental health"
+    },
+    "longerTermSubstanceNotReturn": {
+      "S": "N"
+    },
+    "startDate": {
+      "N": "20230201"
+    },
+    "historyOfUse": {
+      "S": "Y"
+    },
+    "age": {
+      "N": "48"
+    },
+    "cabinNo": {
+      "S": "6"
+    },
+    "exitByRuleViolations": {
+      "S": "N"
+    },
+    "inTreatmentForOtherSubstances": {
+      "S": "AA"
+    },
+    "entrustedAssertiveCommunity": {
+      "S": "N"
+    },
+    "documentationAssistance": {
+      "S": "N"
+    },
+    "live": {
+      "S": "Y"
+    },
+    "gender": {
+      "S": "Female"
+    },
+    "activeOtherSubstances": {
+      "S": "N"
+    },
+    "opiateTreatmentAtResidency": {
+      "S": "N"
+    },
+    "racial": {
+      "S": "Black"
+    },
+    "dualDX": {
+      "S": "N"
+    },
+    "permanentHouse": {
+      "S": "N"
+    },
+    "inMentalHealthTreatment": {
+      "S": "N"
+    },
+    "personId": {
+      "S": "73"
+    }
+  }
+]

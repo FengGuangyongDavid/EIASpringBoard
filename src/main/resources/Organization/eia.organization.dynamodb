@@ -1,0 +1,284 @@
+CreateTable
+{
+  "AttributeDefinitions": [
+    {
+      "AttributeName": "orgId",
+      "AttributeType": "S"
+    }
+  ],
+  "TableName": "eia.organization",
+  "KeySchema": [
+    {
+      "AttributeName": "orgId",
+      "KeyType": "HASH"
+    }
+  ],
+  "TableClass": "STANDARD",
+  "ProvisionedThroughput": {
+    "ReadCapacityUnits": 5,
+    "WriteCapacityUnits": 5
+  }
+}
+
+BatchWriteItem
+{
+  "RequestItems": {
+    "eia.organization": [
+      {
+        "PutRequest": {
+          "Item": {
+            "orgId": {
+              "S": "1"
+            },
+            "orgName": {
+              "S": "FSCAA"
+            },
+            "service": {
+              "S": "FSCAA"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "orgId": {
+              "S": "2"
+            },
+            "orgName": {
+              "S": "LA Red Health Center"
+            },
+            "service": {
+              "S": "Mental Health"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "orgId": {
+              "S": "3"
+            },
+            "orgName": {
+              "S": "LA Red Health Center"
+            },
+            "service": {
+              "S": "Substanec use"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "orgId": {
+              "S": "4"
+            },
+            "orgName": {
+              "S": "Marigold"
+            },
+            "service": {
+              "S": "Peer Support"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "orgId": {
+              "S": "5"
+            },
+            "orgName": {
+              "S": "NET Centers"
+            },
+            "service": {
+              "S": "Financial"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "orgId": {
+              "S": "6"
+            },
+            "orgName": {
+              "S": "Brandwine Valley SPCA"
+            },
+            "service": {
+              "S": "Pet care"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "orgId": {
+              "S": "7"
+            },
+            "orgName": {
+              "S": "Bone and Yam"
+            },
+            "service": {
+              "S": "Pet care"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "orgId": {
+              "S": "8"
+            },
+            "orgName": {
+              "S": "Del-One Credit Union"
+            },
+            "service": {
+              "S": "Financial"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "orgId": {
+              "S": "9"
+            },
+            "orgName": {
+              "S": "Joyfully Connected Foundation"
+            },
+            "service": {
+              "S": "Physical health"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "orgId": {
+              "S": "10"
+            },
+            "orgName": {
+              "S": "The DSAMH Bridge Clinic"
+            },
+            "service": {
+              "S": "Mental health"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "orgId": {
+              "S": "11"
+            },
+            "orgName": {
+              "S": "PROMISE"
+            },
+            "service": {
+              "S": "Mental health"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "orgId": {
+              "S": "12"
+            },
+            "orgName": {
+              "S": "The DSAMH Bridge Clinic"
+            },
+            "service": {
+              "S": "Substanec use"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "orgId": {
+              "S": "13"
+            },
+            "orgName": {
+              "S": "PROMISE"
+            },
+            "service": {
+              "S": "Substanec use"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "orgId": {
+              "S": "14"
+            },
+            "orgName": {
+              "S": "Act Team"
+            },
+            "service": {
+              "S": "Physical health"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "orgId": {
+              "S": "15"
+            },
+            "orgName": {
+              "S": "Brandwine Counseling and Community Services"
+            },
+            "service": {
+              "S": "Physical health"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "orgId": {
+              "S": "16"
+            },
+            "orgName": {
+              "S": "AMF"
+            },
+            "service": {
+              "S": "Physical health"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "orgId": {
+              "S": "17"
+            },
+            "orgName": {
+              "S": "RHD"
+            },
+            "service": {
+              "S": "Physical health"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

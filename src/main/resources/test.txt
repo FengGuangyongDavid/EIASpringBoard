@@ -1,0 +1,2 @@
+http://localhost:8080/getPerson/1
+{"personId":"1","name":"Santosh","age":30,"email":"santosh@gmail.com","address":{"city":"Dalian","state":"karnataka","pinCode":123}}

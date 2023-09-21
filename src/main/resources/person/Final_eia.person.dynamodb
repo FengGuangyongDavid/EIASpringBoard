@@ -1,0 +1,22 @@
+CreateTable
+{
+  "AttributeDefinitions": [
+    {
+      "AttributeName": "personId",
+      "AttributeType": "S"
+    }
+  ],
+  "TableName": "eia.person",
+  "KeySchema": [
+    {
+      "AttributeName": "personId",
+      "KeyType": "HASH"
+    }
+  ],
+  "TableClass": "STANDARD",
+  "ProvisionedThroughput": {
+    "ReadCapacityUnits": 5,
+    "WriteCapacityUnits": 5
+  }
+}
+

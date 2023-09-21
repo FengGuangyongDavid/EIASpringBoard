@@ -1,0 +1,52 @@
+[
+  {
+    "orgName": "AMF",
+    "service": "Physical health",
+    "orgId": "16"
+  },
+  {
+    "orgName": "LA Red Health Center",
+    "service": "Mental Health",
+    "orgId": "2"
+  },
+  {
+    "orgName": "PROMISE",
+    "service": "Substanec use",
+    "orgId": "13"
+  },
+  {
+    "orgName": "Del-One Credit Union",
+    "service": "Financial",
+    "orgId": "8"
+  },
+  {
+    "orgName": "Joyfully Connected Foundation",
+    "service": "Physical health",
+    "orgId": "9"
+  },
+  {
+    "orgName": "FSCAA",
+    "service": "FSCAA",
+    "orgId": "1"
+  },
+  {
+    "orgName": "Brandwine Valley SPCA",
+    "service": "Pet care",
+    "orgId": "6"
+  },
+  {
+    "orgName": "NET Centers",
+    "service": "Financial",
+    "orgId": "5"
+  },
+  {
+    "orgName": "Marigold",
+    "service": "Peer Support",
+    "orgId": "4"
+  },
+  {
+    "orgName": "Bone and Yam",
+    "service": "Pet care",
+    "orgId": "7"
+  }
+]

@@ -1,0 +1,45 @@
+###
+GET http://localhost:8080/getPerson/1
+
+
+###
+PUT http://localhost:8080/editPerson
+Content-Type: application/json
+
+{
+    "address": {
+      "city": "beijing",
+      "pinCode": 560037,
+      "state": "karnataka"
+    },
+    "name": "Santosh",
+    "personId": "3",
+    "email": "santosh@gmail.com",
+    "age": 30
+  }
+
+
+###
+POST http://localhost:8080/savePerson
+Content-Type: application/json
+
+{
+  "address": {
+    "city": "shanghai",
+    "pinCode": 123,
+    "state": "123"
+  },
+  "name": "name1",
+  "email": "santosh@gmail.com",
+  "age": 40
+}
+
+
+###
+DELETE http://localhost:8080/deletePerson
+Content-Type: application/json
+
+{
+  "personId":"d0f562a3-d53e-4d8a-a225-172e41096cb3"
+}
+
