@@ -25,14 +25,19 @@ public class GlobalController {
 	public String index(Map<String, Object> model) {
 		List<Person> personList = personService.getAllPersons();
 		model.put("personList",personList);
-		return "welcome";
+		return "index";
+	}
+
+	@GetMapping("/demographic")
+	public String demographic() {
+		return "demographic";
 	}
 
 	@GetMapping("/ParticipantList")
 	public String welcome(Map<String, Object> model) {
 		List<Person> personList = personService.getAllPersons();
 		model.put("personList",personList);
-		return "welcome";
+		return "participant";
 	}
 
 	@GetMapping("/OrgList")
