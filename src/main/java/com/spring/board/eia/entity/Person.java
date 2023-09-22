@@ -81,5 +81,259 @@ public class Person implements Serializable {
     @DynamoDBAttribute
     private String achievements;
 
+    public String getPersonId() {
+        return personId;
+    }
 
+    public void setPersonId(String personId) {
+        this.personId = personId;
+    }
+
+    public String getCabinNo() {
+        return cabinNo;
+    }
+
+    public void setCabinNo(String cabinNo) {
+        this.cabinNo = cabinNo;
+    }
+
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
+
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
+    }
+
+    public String getMHProvider() {
+        return MHProvider;
+    }
+
+    public void setMHProvider(String MHProvider) {
+        this.MHProvider = MHProvider;
+    }
+
+    public String getSUDProvider() {
+        return SUDProvider;
+    }
+
+    public void setSUDProvider(String SUDProvider) {
+        this.SUDProvider = SUDProvider;
+    }
+
+    public String getCaseManagement() {
+        return caseManagement;
+    }
+
+    public void setCaseManagement(String caseManagement) {
+        this.caseManagement = caseManagement;
+    }
+
+    public String getNeed() {
+        return need;
+    }
+
+    public void setNeed(String need) {
+        this.need = need;
+    }
+
+    public String getPhoneNo() {
+        return phoneNo;
+    }
+
+    public void setPhoneNo(String phoneNo) {
+        this.phoneNo = phoneNo;
+    }
+
+    public String getCabinStatus() {
+        return cabinStatus;
+    }
+
+    public void setCabinStatus(String cabinStatus) {
+        this.cabinStatus = cabinStatus;
+    }
+
+    public int getStartDate() {
+        return startDate;
+    }
+
+    public void setStartDate(int startDate) {
+        this.startDate = startDate;
+    }
+
+    public int getEndDate() {
+        return endDate;
+    }
+
+    public void setEndDate(int endDate) {
+        this.endDate = endDate;
+    }
+
+    public String getGender() {
+        return gender;
+    }
+
+    public void setGender(String gender) {
+        this.gender = gender;
+    }
+
+    public String getRacial() {
+        return racial;
+    }
+
+    public void setRacial(String racial) {
+        this.racial = racial;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public String getHistoryOfUse() {
+        return historyOfUse;
+    }
+
+    public void setHistoryOfUse(String historyOfUse) {
+        this.historyOfUse = historyOfUse;
+    }
+
+    public String getActiveUser() {
+        return activeUser;
+    }
+
+    public void setActiveUser(String activeUser) {
+        this.activeUser = activeUser;
+    }
+
+    public String getActiveOtherSubstances() {
+        return activeOtherSubstances;
+    }
+
+    public void setActiveOtherSubstances(String activeOtherSubstances) {
+        this.activeOtherSubstances = activeOtherSubstances;
+    }
+
+    public String getPreviousUser() {
+        return previousUser;
+    }
+
+    public void setPreviousUser(String previousUser) {
+        this.previousUser = previousUser;
+    }
+
+    public String getOpiateTreatmentAtResidency() {
+        return opiateTreatmentAtResidency;
+    }
+
+    public void setOpiateTreatmentAtResidency(String opiateTreatmentAtResidency) {
+        this.opiateTreatmentAtResidency = opiateTreatmentAtResidency;
+    }
+
+    public String getInTreatmentForOtherSubstances() {
+        return inTreatmentForOtherSubstances;
+    }
+
+    public void setInTreatmentForOtherSubstances(String inTreatmentForOtherSubstances) {
+        this.inTreatmentForOtherSubstances = inTreatmentForOtherSubstances;
+    }
+
+    public String getInMentalHealthTreatment() {
+        return inMentalHealthTreatment;
+    }
+
+    public void setInMentalHealthTreatment(String inMentalHealthTreatment) {
+        this.inMentalHealthTreatment = inMentalHealthTreatment;
+    }
+
+    public String getNameOfProvider() {
+        return nameOfProvider;
+    }
+
+    public void setNameOfProvider(String nameOfProvider) {
+        this.nameOfProvider = nameOfProvider;
+    }
+
+    public String getDualDX() {
+        return dualDX;
+    }
+
+    public void setDualDX(String dualDX) {
+        this.dualDX = dualDX;
+    }
+
+    public String getPermanentHouse() {
+        return permanentHouse;
+    }
+
+    public void setPermanentHouse(String permanentHouse) {
+        this.permanentHouse = permanentHouse;
+    }
+
+    public String getEntrustedAssertiveCommunity() {
+        return entrustedAssertiveCommunity;
+    }
+
+    public void setEntrustedAssertiveCommunity(String entrustedAssertiveCommunity) {
+        this.entrustedAssertiveCommunity = entrustedAssertiveCommunity;
+    }
+
+    public String getLive() {
+        return live;
+    }
+
+    public void setLive(String live) {
+        this.live = live;
+    }
+
+    public String getLongerTermSubstanceReturn() {
+        return longerTermSubstanceReturn;
+    }
+
+    public void setLongerTermSubstanceReturn(String longerTermSubstanceReturn) {
+        this.longerTermSubstanceReturn = longerTermSubstanceReturn;
+    }
+
+    public String getDecidedMove() {
+        return decidedMove;
+    }
+
+    public void setDecidedMove(String decidedMove) {
+        this.decidedMove = decidedMove;
+    }
+
+    public String getExitByRuleViolations() {
+        return exitByRuleViolations;
+    }
+
+    public void setExitByRuleViolations(String exitByRuleViolations) {
+        this.exitByRuleViolations = exitByRuleViolations;
+    }
+
+    public String getDocumentationAssistance() {
+        return documentationAssistance;
+    }
+
+    public void setDocumentationAssistance(String documentationAssistance) {
+        this.documentationAssistance = documentationAssistance;
+    }
+
+    public String getAchievements() {
+        return achievements;
+    }
+
+    public void setAchievements(String achievements) {
+        this.achievements = achievements;
+    }
 }
