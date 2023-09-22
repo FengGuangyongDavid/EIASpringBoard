@@ -2,7 +2,6 @@ package com.spring.board.eia.controller;
 import com.google.common.collect.Lists;
 import com.spring.board.eia.entity.File;
 import com.spring.board.eia.service.FileService;
-import com.spring.board.eia.service.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -50,7 +49,7 @@ public class FileController {
 	@GetMapping("/generate_file")
 	public String generateFile(Map<String, Object> model) throws IOException {
 		fileService.generateFile();
-		return "file_download";
+		return downloadFile(model);
 	}
 
 	@PostMapping("/do_upload")
