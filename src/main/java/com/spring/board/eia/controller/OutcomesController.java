@@ -33,9 +33,9 @@ public class OutcomesController {
    //     long documentationAssistanceNo = personList.stream().filter(person -> person.getDocumentationAssistance().equalsIgnoreCase("y")).count();
      //   long getAchievementsNo = personList.stream().filter(person -> !person.getAchievements().isEmpty()).count();
         Map<String,List> result = new HashMap<>();
-        result.put("category", Lists.newArrayList("#total","#getPermanentHouse",
+        result.put("category", Lists.newArrayList("#total","#get\nPermanent\nHouse",
                 "#incarcerated","#entrusted\nAssertive\nCommunity",
-                "#livePeople","#connectedTo\nMHProvider"));
+                "#live\nPeople","#connected\nTo\nMHProvider"));
         result.put("data", Lists.newArrayList(totalPersonNo,getPermanentHouseNo,
                 incarceratedNo,entrustedAssertiveCommunityNo,
                 livePeopleNo,decidedMoveNo));
