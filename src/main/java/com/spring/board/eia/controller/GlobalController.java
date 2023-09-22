@@ -28,6 +28,21 @@ public class GlobalController {
 		return "index";
 	}
 
+	@GetMapping("/opiateStatics")
+	public String opiateStatics() {
+		return "opiateStatics";
+	}
+
+	@GetMapping("/programOutcomes")
+	public String programOutcomes() {
+		return "programOutcomes";
+	}
+
+	@GetMapping("/organization")
+	public String organization() {
+		return "organization";
+	}
+
 	@GetMapping("/demographic")
 	public String demographic() {
 		return "demographic";

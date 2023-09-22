@@ -106,7 +106,7 @@
 
                     <!-- 第二个主权限 -->
                     <li>
-                        <a href="#subPages1" data-toggle="collapse" class="collapsed"><i
+                        <a href="#" onclick="return organization()" data-toggle="collapse" class="collapsed"><i
                                 class="lnr lnr-cog"></i> <span>Organization</span> <i
                                 class="icon-submenu lnr lnr-chevron-left"></i></a>
                     </li>
@@ -118,8 +118,8 @@
                                 class="icon-submenu lnr lnr-chevron-left"></i></a>
                         <div id="subPages2" class="collapse ">
                             <ul class="nav">
-                                <li><a href="#" class="">Opiate statics</a></li>
-                                <li><a href="#" class="">Program Outcomes</a></li>
+                                <li><a href="#" class="" onclick="return opiateStatics()">Opiate statics</a></li>
+                                <li><a href="#" class="" onclick="return programOutcomes()">Program Outcomes</a></li>
                                 <li><a href="#" class="" onclick="return demographicPage()">Demographic data</a></li>
                             </ul>
                         </div>

@@ -167,27 +167,15 @@
                         <!-- 表头 -->
                         <thead>
                         <tr>
-                            <th>Id</th>
-                            <th>Cabin No</th>
-                            <th>First Name</th>
-                            <th>Last Name</th>
-                            <th>Age</th>
-                            <th>Gender</th>
-                            <th>Phone No.</th>
-                            <th>Status</th>
+                            <th>Organization Name</th>
+                            <th>Service Category</th>
                         </tr>
                         </thead>
                         <tbody>
-                        <c:forEach items="${personList}" var="person">
+                        <c:forEach items="${orgList}" var="org">
                             <tr>
-                                <td>${person.personId}</td>
-                                <td>${person.cabinNo}</td>
-                                <td>${person.firstName}</td>
-                                <td>${person.lastName}</td>
-                                <td>${person.age}</td>
-                                <td>${person.gender}</td>
-                                <td>${person.phoneNo}</td>
-                                <td>${person.cabinStatus}</td>
+                                <td>${org.orgName}</td>
+                                <td>${org.service}</td>
                             </tr>
                         </c:forEach>
                         </tbody>

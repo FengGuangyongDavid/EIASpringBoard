@@ -92,12 +92,6 @@
             <nav>
                 <ul class="nav">
                     <li><a href="#"><i class="lnr lnr-home"></i> <span>System</span></a></li>
-                    <!-- 第一个主权限 -->
-                    <!--
-                        href="#subPages"和id="subPages"绑定
-                        此处#subPages的值可以是任意数据，但是必须和id一致
-                        不同li节点的值不能是一样的
-                    -->
                     <li>
                         <a href="#" onclick="return participantPage()" data-toggle="collapse" class="collapsed"><i class="lnr lnr-cog"></i>
                             <span>Participant</span> <i class="icon-submenu lnr lnr-chevron-left"></i></a>
@@ -131,74 +125,13 @@
     <!-- 左侧栏结束 -->
 
     <div class="main">
-        <!-- 内容区盒子 -->
-        <div class="main-content">
-            <!-- 表格区盒子 -->
-            <div class="panel">
-                <!-- 表格头部 -->
-                <div class="panel-heading">
-                    <!-- 表格标题 -->
-                    <h3 class="panel-title">Participant Info</h3>
-                    <div class="right">
-                        <button type="button" class="btn-toggle-collapse"><i class="lnr lnr-chevron-up"></i></button>
-                        <button type="button" class="btn-remove"><i class="lnr lnr-cross"></i></button>
-                    </div>
-                </div>
-
-                <!-- 表格主体 -->
-                <div class="panel-body no-padding">
 
 
-                    <form class="navbar-form navbar-left" action="#">
 
-                        <div class="input-group">
-                            <input type="text" class="form-control" placeholder="SEARCH...">
-                        </div>
 
-                        <!-- 按钮和超链接 -->
-                        <div class="input-group">
-                            <span class="input-group-btn"><button type="submit" class="btn btn-success">Search</button></span>
-                            <span class="input-group-btn"><a href="#" class="btn btn-primary" style="margin-left: 5px;">Add</a></span>
-                            <span class="input-group-btn"><a href="#" class="btn btn-danger" style="margin-left: 5px;">Delete</a></span>
-                        </div>
-                    </form>
-
-                    <table class="table table-striped" style="font-size: 20px;">
-                        <!-- 表头 -->
-                        <thead>
-                        <tr>
-                            <th>Id</th>
-                            <th>Cabin No</th>
-                            <th>First Name</th>
-                            <th>Last Name</th>
-                            <th>Age</th>
-                            <th>Gender</th>
-                            <th>Phone No.</th>
-                            <th>Status</th>
-                        </tr>
-                        </thead>
-                        <tbody>
-                        <c:forEach items="${personList}" var="person">
-                            <tr>
-                                <td>${person.personId}</td>
-                                <td>${person.cabinNo}</td>
-                                <td>${person.firstName}</td>
-                                <td>${person.lastName}</td>
-                                <td>${person.age}</td>
-                                <td>${person.gender}</td>
-                                <td>${person.phoneNo}</td>
-                                <td>${person.cabinStatus}</td>
-                            </tr>
-                        </c:forEach>
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-        </div>
     </div>
 
 </div>
-<!-- 主盒子结束 -->
 
 <!-- Javascript -->
 <script src="/static/assets/vendor/jquery/jquery.min.js"></script>
@@ -208,10 +141,9 @@
 <script src="/static/assets/vendor/chartist/js/chartist.min.js"></script>
 <script src="/static/assets/scripts/klorofil-common.js"></script>
 <script src="/static/assets/js/index.js"></script>
-
+<script src="/static/assets/vendor/jquery/jquery-3.7.1.js"></script>
+<script src="/static/assets/js/echarts.min.js"></script>
 <script type="text/javascript">
-    //JQ代码请在此处编写...
-    //显示当前时间
     clock();
     var attime;
 
@@ -223,14 +155,6 @@
     setInterval(clock, 1000);
 </script>
 
-<script type="text/javascript">
-    // $('document').ready(function() {
-    //  $('.main').load('view/index-image.html');
-    //  return false;
-    // });
-    // $("#yhgl").click(function() {
 
-    // });
-</script>
 </body>
 </html>
