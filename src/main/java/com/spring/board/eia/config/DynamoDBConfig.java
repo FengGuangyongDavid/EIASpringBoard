@@ -17,8 +17,9 @@ public class DynamoDBConfig {
     public static final String REGION = "us-east-1";
 //    public static final String ACCESS_KEY = "";
 //    public static final String SECRET_KEY = "";
-    public static final String ACCESS_KEY = "AKIARDB4QF3JPT3TK4UR";
-    public static final String SECRET_KEY = "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";
+    public static final String ACCESS_KEY = "AKIAWQPN2BRUEQKQU5AP";
+    public static final String SECRET_KEY = "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";
+
 
     @Bean
     public DynamoDBMapper mapper() {
