@@ -69,7 +69,7 @@ public class DemographicDataController {
     public String getSubstanceInfo() {
         List<Person> personList = repository.findPersons();
         SubstanceStatistics substanceStatistics = SubstanceStatisticsHelper.generate(personList);
-        JSONObject jsonObject = new JSONObject(substanceStatistics);
+        JSONObject jsonObject = new JSONObject(SubstanceStatisticsHelper.generateGsonObject(substanceStatistics));
         return jsonObject.toString();
     }
 

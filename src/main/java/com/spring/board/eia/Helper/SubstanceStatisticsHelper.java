@@ -1,16 +1,24 @@
 package com.spring.board.eia.Helper;
 
+import com.google.common.collect.Lists;
+import com.spring.board.eia.domain.SubstanceStaticsJson;
 import com.spring.board.eia.domain.SubstanceStatistics;
 import com.spring.board.eia.entity.Person;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
 public final class SubstanceStatisticsHelper {
 
-    public static String ACTIVE = "ACTIVE";
-    public static String IN_ACTIVE = "IN_ACTIVE";
+    public static String ACTIVE = "CURRENT";
+    public static String IN_ACTIVE = "HISTORIC";
+
+    public static List<String> columns = Lists.newArrayList("# of people used opiate during their lifetime"
+            ,"# of people actively using opiates","# of people in recovery from opiate use",
+            "# of people in treatment for opiate usage","# of people for usage of other substances",
+            "# of people in Mental Health treatment","# of people receiving treatment for Dual Diagnosis");
     public static SubstanceStatistics generate(List<Person> personList)
     {
         Map<String,Integer> totalPersonCountMap = new HashMap<>();
@@ -54,6 +62,32 @@ public final class SubstanceStatisticsHelper {
                 .mentalHealthPeopleCountMap(mentalHealthPeopleCountMap).nonOpiatePeopleCountMap(nonOpiatePeopleCountMap)
                 .opiatePeopleCountMap(opiatePeopleCountMap).recoveredOpiatePeopleCountMap(recoveredOpiatePeopleCountMap)
                 .totalPersonCountMap(totalPersonCountMap).usedOpiatePeopleCountMap(usedOpiatePeopleCountMap).build();
+    }
+
+    public static SubstanceStaticsJson generateGsonObject(SubstanceStatistics substanceStatistics){
+        SubstanceStaticsJson substanceStaticsJson = SubstanceStaticsJson.builder().columns(columns)
+                .currentValues(getValuesList(ACTIVE,substanceStatistics))
+                .historicValues(getValuesList(IN_ACTIVE,substanceStatistics)).build();
+return substanceStaticsJson;
+    }
+
+    public static List<Integer> getValuesList(String key,SubstanceStatistics substanceStatistics){
+        List<Integer> list = new ArrayList<>();
+        list.add(getValue(key,substanceStatistics.getOpiatePeopleCountMap()));
+        list.add(getValue(key,substanceStatistics.getActiveOpiatePeopleCountMap()));
+        list.add(getValue(key,substanceStatistics.getRecoveredOpiatePeopleCountMap()));
+        list.add(getValue(key,substanceStatistics.getUsedOpiatePeopleCountMap()));
+        list.add(getValue(key,substanceStatistics.getNonOpiatePeopleCountMap()));
+        list.add(getValue(key,substanceStatistics.getMentalHealthPeopleCountMap()));
+        list.add(getValue(key,substanceStatistics.getDualDiagnosisPeopleCountMap()));
+        return list;
+    }
+
+    private static Integer getValue(String key,Map<String,Integer> valueMap){
+        if (valueMap.containsKey(key)){
+            return valueMap.get(key);
+        }
+        return 0;
     }
 
     private static void checkAndAdd(String status,Map<String,Integer> map,boolean isActive){
