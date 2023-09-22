@@ -26,19 +26,19 @@ public class OutcomesController {
         long incarceratedNo = personList.stream().filter(person -> person.getCabinStatus().equalsIgnoreCase("active")).count();
         long entrustedAssertiveCommunityNo = personList.stream().filter(person -> person.getEntrustedAssertiveCommunity().equalsIgnoreCase("yes")).count();
         long livePeopleNo = personList.stream().filter(person -> person.getLive().equalsIgnoreCase("yes")).count();
-        long longerTermSubstanceReturnNo = personList.stream().filter(person -> person.getLongerTermSubstanceReturn().equalsIgnoreCase("yes")).count();
+        //long longerTermSubstanceReturnNo = personList.stream().filter(person -> person.getLongerTermSubstanceReturn().equalsIgnoreCase("yes")).count();
         long decidedMoveNo = personList.stream().filter(person -> person.getDecidedMove().equalsIgnoreCase("yes")).count();
         long exitByRuleViolationsNo = personList.stream().filter(person -> person.getExitByRuleViolations().equalsIgnoreCase("yes")).count();
-        long connectedToMHProviderNo = personList.stream().filter(person -> !person.getMHProvider().isEmpty()).count();
-        long documentationAssistanceNo = personList.stream().filter(person -> person.getDocumentationAssistance().equalsIgnoreCase("yes")).count();
-        long getAchievementsNo = personList.stream().filter(person -> !person.getAchievements().isEmpty()).count();
+ //       long connectedToMHProviderNo = personList.stream().filter(person -> !person.getMHProvider().isEmpty()).count();
+   //     long documentationAssistanceNo = personList.stream().filter(person -> person.getDocumentationAssistance().equalsIgnoreCase("yes")).count();
+     //   long getAchievementsNo = personList.stream().filter(person -> !person.getAchievements().isEmpty()).count();
         Map<String,List> result = new HashMap<>();
         result.put("category", Lists.newArrayList("#total","#getPermanentHouse",
                 "#incarcerated","#entrusted\nAssertive\nCommunity",
                 "#livePeople","#connectedTo\nMHProvider"));
         result.put("data", Lists.newArrayList(totalPersonNo,getPermanentHouseNo,
                 incarceratedNo,entrustedAssertiveCommunityNo,
-                livePeopleNo,connectedToMHProviderNo));
+                livePeopleNo,decidedMoveNo));
         JSONObject jsonObject = new JSONObject(result);
         return jsonObject.toString();
     }
