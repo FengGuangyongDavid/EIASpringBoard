@@ -125,10 +125,7 @@
     <!-- 左侧栏结束 -->
 
     <div class="main">
-
-
-
-
+        <div id="programOutcome" style="width: 1000px;height:400px;display: inline-block;"></div>
     </div>
 
 </div>
@@ -142,6 +139,7 @@
 <script src="/static/assets/scripts/klorofil-common.js"></script>
 <script src="/static/assets/js/index.js"></script>
 <script src="/static/assets/vendor/jquery/jquery-3.7.1.js"></script>
+<script src="/static/assets/js/programOutcome.js"></script>
 <script src="/static/assets/js/echarts.min.js"></script>
 <script type="text/javascript">
     clock();
