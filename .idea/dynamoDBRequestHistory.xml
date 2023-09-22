@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DynamoDBRequestHistory">
+    <option name="requestHistory">
+      <map>
+        <entry key="70588827-62cd-44c1-90bc-a15b02114564">
+          <value>
+            <list>
+              <HistoryRequest>
+                <option name="body" value="{&#10;  &quot;Limit&quot;: 50,&#10;  &quot;TableName&quot;: &quot;eia.organization&quot;,&#10;  &quot;ReturnConsumedCapacity&quot;: &quot;TOTAL&quot;&#10;}" />
+                <option name="operation" value="Scan" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="body" value="{&#10;  &quot;Limit&quot;: 50,&#10;  &quot;TableName&quot;: &quot;eia.organization&quot;,&#10;  &quot;ReturnConsumedCapacity&quot;: &quot;TOTAL&quot;&#10;}" />
+                <option name="operation" value="Scan" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="body" value="{&#10;  &quot;Limit&quot;: 50,&#10;  &quot;TableName&quot;: &quot;eia.person&quot;,&#10;  &quot;ReturnConsumedCapacity&quot;: &quot;TOTAL&quot;&#10;}" />
+                <option name="operation" value="Scan" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="body" value="{&#10;  &quot;Limit&quot;: 50,&#10;  &quot;TableName&quot;: &quot;eia.organization&quot;,&#10;  &quot;ReturnConsumedCapacity&quot;: &quot;TOTAL&quot;&#10;}" />
+                <option name="operation" value="Scan" />
+              </HistoryRequest>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

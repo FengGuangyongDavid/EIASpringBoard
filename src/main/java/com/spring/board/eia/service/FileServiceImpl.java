@@ -1,5 +1,6 @@
 package com.spring.board.eia.service;
 
+import com.spring.board.eia.entity.Organization;
 import com.spring.board.eia.entity.Person;
 import org.apache.commons.fileupload.FileItem;
 import org.apache.commons.fileupload.disk.DiskFileItemFactory;
@@ -22,6 +23,9 @@ import static com.spring.board.eia.EIAConstant.*;
 public class FileServiceImpl implements FileService {
     @Autowired
     private PersonService personService;
+
+    @Autowired
+    private OrgService orgService;
 
     @Override
     public void doUpload(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
@@ -57,6 +61,11 @@ public class FileServiceImpl implements FileService {
 
     @Override
     public void generateFile() throws IOException {
+        generatePersonFile();
+        generateOrgFile();
+    }
+
+    private void generatePersonFile() throws IOException {
         List<Person> persons = personService.getAllPersons();
         HSSFWorkbook workbook = new HSSFWorkbook();
         HSSFSheet sheet = workbook.createSheet("person info");
@@ -95,8 +104,9 @@ public class FileServiceImpl implements FileService {
         head.createCell(30).setCellValue("DocumentationAssistance");
         head.createCell(31).setCellValue("Achievements");
 
+        int i = 1;
         for (Person person : persons) {
-            HSSFRow row = sheet.createRow((short)1);
+            HSSFRow row = sheet.createRow((short)i);
             row.createCell(0).setCellValue(person.getPersonId());
             row.createCell(1).setCellValue(person.getCabinNo());
             row.createCell(2).setCellValue(person.getFirstName());
@@ -129,12 +139,39 @@ public class FileServiceImpl implements FileService {
             row.createCell(29).setCellValue(person.getExitByRuleViolations());
             row.createCell(30).setCellValue(person.getDocumentationAssistance());
             row.createCell(31).setCellValue(person.getAchievements());
+            i++;
         }
 
         FileOutputStream fileOut = new FileOutputStream(PERSON_DOWNLOAD_PATH);
         workbook.write(fileOut);
         fileOut.close();
         workbook.close();
-        System.out.println("Excel file has been generated!");
+        System.out.println("Person file has been generated!");
+    }
+
+    private void generateOrgFile() throws IOException {
+        List<Organization> orgs = orgService.getAllOrgs();
+        HSSFWorkbook workbook = new HSSFWorkbook();
+        HSSFSheet sheet = workbook.createSheet("organization info");
+
+        HSSFRow head = sheet.createRow((short)0);
+        head.createCell(0).setCellValue("OrgId");
+        head.createCell(1).setCellValue("orgName");
+        head.createCell(2).setCellValue("Service");
+
+        int i = 1;
+        for (Organization org : orgs) {
+            HSSFRow row = sheet.createRow((short)i);
+            row.createCell(0).setCellValue(org.getOrgId());
+            row.createCell(1).setCellValue(org.getOrgName());
+            row.createCell(2).setCellValue(org.getService());
+            i++;
+        }
+
+        FileOutputStream fileOut = new FileOutputStream(ORG_DOWNLOAD_PATH);
+        workbook.write(fileOut);
+        fileOut.close();
+        workbook.close();
+        System.out.println("Org file has been generated!");
     }
 }
