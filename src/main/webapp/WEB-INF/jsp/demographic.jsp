@@ -131,11 +131,11 @@
     <!-- 左侧栏结束 -->
 
     <div class="main">
-        <div id="gender" style="width: 600px;height:400px; display: inline-block;"></div>
+        <div id="gender" style="width: 330px;height:700px; display: inline-block;"></div>
 
-        <div id="race" style="width: 600px;height:400px;display: inline-block;"></div>
+        <div id="race" style="width: 330px;height:700px;display: inline-block;"></div>
 
-        <div id="age" style="width: 600px;height:400px;display: inline-block;"></div>
+        <div id="age" style="width: 330px;height:700px;display: inline-block;"></div>
     </div>
 
 </div>
