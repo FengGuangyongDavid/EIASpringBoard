@@ -15,10 +15,10 @@ public final class SubstanceStatisticsHelper {
     public static String ACTIVE = "CURRENT";
     public static String IN_ACTIVE = "HISTORIC";
 
-    public static List<String> columns = Lists.newArrayList("# of people\nused opiate\nduring their lifetime"
-            ,"# of people\nactively using opiates","# of people\nin recovery\nfrom opiate use",
-            "# of people\nin treatment\nfor opiate usage","# of people\nfor usage of\nother substances",
-            "# of people\nin Mental\nHealth treatment","# of people\nreceiving treatment\nfor Dual Diagnosis");
+    public static List<String> columns = Lists.newArrayList("# of people\nused opiate\nduring their\nlifetime"
+            ,"# of people\nactively using\nopiates","# of people\nin recovery\nfrom opiate\nuse",
+            "# of people\nin treatment\nfor opiate\nusage","# of people\nfor usage of\nother substances",
+            "# of people\nin Mental\nHealth treatment","# of people\nreceiving treatment\nfor Dual\nDiagnosis");
     public static SubstanceStatistics generate(List<Person> personList)
     {
         Map<String,Integer> totalPersonCountMap = new HashMap<>();
