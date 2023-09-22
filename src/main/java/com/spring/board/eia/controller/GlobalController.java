@@ -1,5 +1,7 @@
 package com.spring.board.eia.controller;
+import com.spring.board.eia.entity.Organization;
 import com.spring.board.eia.service.PersonService;
+import com.spring.board.eia.service.OrgService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -16,6 +18,9 @@ public class GlobalController {
 	@Autowired
 	private PersonService personService;
 
+	@Autowired
+	private OrgService orgService;
+
 	@GetMapping("/")
 	public String index(Map<String, Object> model) {
 		List<Person> personList = personService.getAllPersons();
@@ -28,6 +33,13 @@ public class GlobalController {
 		List<Person> personList = personService.getAllPersons();
 		model.put("personList",personList);
 		return "welcome";
+	}
+
+	@GetMapping("/OrgList")
+	public String orgList(Map<String, Object> model) {
+		List<Organization> organizationList = orgService.getAllOrgs();
+		model.put("orgList",organizationList);
+		return "orgList";
 	}
 	
 	@GetMapping("/delete")

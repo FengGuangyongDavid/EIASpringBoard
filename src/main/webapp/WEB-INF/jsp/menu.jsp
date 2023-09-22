@@ -12,5 +12,5 @@
 </head>
 <body text-align:center;>
 <li><a href="/ParticipantList"><i	class="fa fa-edit fa-fw"></i>Participant List</a></li>
+<li><a href="/OrgList"><i	class="fa fa-edit fa-fw"></i>Organization List</a></li>
 <li><a href="/statistics"><i	class="fa fa-edit fa-fw"></i>Statistics</a></li>
-<li><a href="${context}/foo2.jsp"><i	class="fa fa-edit fa-fw"></i>statistics</a></li>
