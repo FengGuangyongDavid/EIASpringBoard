@@ -15,10 +15,10 @@ public final class SubstanceStatisticsHelper {
     public static String ACTIVE = "CURRENT";
     public static String IN_ACTIVE = "HISTORIC";
 
-    public static List<String> columns = Lists.newArrayList("# of people\nused opiate\nduring their\nlifetime"
-            ,"# of people\nactively using\nopiates","# of people\nin recovery\nfrom opiate\nuse",
-            "# of people\nin treatment\nfor opiate\nusage","# of people\nfor usage of\nother substances",
-            "# of people\nin Mental\nHealth treatment","# of people\nreceiving treatment\nfor Dual\nDiagnosis");
+    public static List<String> columns = Lists.newArrayList("# of \npeople\nused \nopiate\nduring \ntheir\nlifetime"
+            ,"# of \npeople\nactively \nusing\nopiates","# of \npeople\nin recovery\nfrom opiate\nuse",
+           "# of people\nin treatment\nfor opiate\nusage","# of \npeople\nfor \nusage of\nother \nsubstances",
+            "# of people\nin Mental\nHealth \ntreatment","# of \npeople\nreceiving \ntreatment\nfor Dual\nDiagnosis");
     public static SubstanceStatistics generate(List<Person> personList)
     {
         Map<String,Integer> totalPersonCountMap = new HashMap<>();
@@ -87,7 +87,7 @@ return substanceStaticsJson;
         if (valueMap.containsKey(key)){
             return valueMap.get(key);
         }
-        return 0;
+        return 20;
     }
 
     private static void checkAndAdd(String status,Map<String,Integer> map,boolean isActive){

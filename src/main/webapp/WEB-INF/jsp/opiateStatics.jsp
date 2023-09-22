@@ -126,7 +126,7 @@
 
     <div class="main">
 
-        <div id="OpiateStatisticsChart" style="width: 600px;height:400px; display: inline-block;"></div>
+        <div id="OpiateStatisticsChart" style="width: 1000px;height:600px; display: inline-block;"></div>
 
     </div>
 
