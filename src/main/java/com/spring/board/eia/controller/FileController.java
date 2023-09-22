@@ -16,6 +16,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.attribute.BasicFileAttributes;
+import java.text.SimpleDateFormat;
 import java.util.List;
 import java.util.Map;
 
@@ -26,24 +27,20 @@ public class FileController {
 	@Autowired
 	private FileService fileService;
 
-	@GetMapping("/file_upload")
-	public String uploadFile(Map<String, Object> model) {
-		return "file_upload";
-	}
-
-	@GetMapping("/file_download")
+	@GetMapping("/file_list")
 	public String downloadFile(Map<String, Object> model) throws IOException {
 		Path personFile = Paths.get(PERSON_DOWNLOAD_PATH);
 		BasicFileAttributes personFileAttr = Files.readAttributes(personFile, BasicFileAttributes.class);
-		File file1 = new File(PERSON_FILE_NAME, "Person Info", personFileAttr.creationTime().toString());
+		SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+		File file1 = new File(PERSON_FILE_NAME, "PERSON","Full info of all persons", df.format(personFileAttr.creationTime().toMillis()));
 
 		Path orgFile = Paths.get(ORG_DOWNLOAD_PATH);
 		BasicFileAttributes orgFileAttr = Files.readAttributes(orgFile, BasicFileAttributes.class);
-		File file2 = new File(ORG_FILE_NAME, "Organization Info", orgFileAttr.creationTime().toString());
+		File file2 = new File(ORG_FILE_NAME, "ORGANIZATION","Full info of all organizations", df.format(orgFileAttr.creationTime().toMillis()));
 
 		List<File> fileList = Lists.newArrayList(file1, file2);
 		model.put("fileList",fileList);
-		return "file_download";
+		return "file_list";
 	}
 
 	@GetMapping("/generate_file")
