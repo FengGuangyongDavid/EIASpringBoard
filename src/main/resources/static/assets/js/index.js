@@ -1,19 +1,19 @@
 function participantPage() {
-   location.href = 'http://localhost:8080/ParticipantList';
+   location.href = '/ParticipantList';
 }
 
 function demographicPage() {
-   location.href = 'http://localhost:8080/demographic';
+   location.href = '/demographic';
 }
 
 function opiateStatics() {
-   location.href = 'http://localhost:8080/opiateStatics';
+   location.href = '/opiateStatics';
 }
 
 function programOutcomes(){
-   location.href = 'http://localhost:8080/programOutcomes';
+   location.href = '/programOutcomes';
 }
 
 function organization(){
-   location.href = 'http://localhost:8080/OrgList';
+   location.href = '/OrgList';
 }

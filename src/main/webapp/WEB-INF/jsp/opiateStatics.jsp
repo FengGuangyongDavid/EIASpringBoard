@@ -112,7 +112,7 @@
                                 class="icon-submenu lnr lnr-chevron-left"></i></a>
                         <div id="subPages2" class="collapse ">
                             <ul class="nav">
-                                <li><a href="#" class="" onclick="return opiateStatics()">Opiate statics</a></li>
+                                <li><a href="#" class="" onclick="return opiateStatics()">Opiate statistics</a></li>
                                 <li><a href="#" class="" onclick="return programOutcomes()">Program Outcomes</a></li>
                                 <li><a href="#" class="" onclick="return demographicPage()">Demographic data</a></li>
                             </ul>
