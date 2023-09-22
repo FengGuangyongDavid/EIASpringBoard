@@ -20,6 +20,7 @@ public class DynamoDBConfig {
     public static final String ACCESS_KEY = "AKIAWQPN2BRUEQKQU5AP";
     public static final String SECRET_KEY = "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";
 
+
     @Bean
     public DynamoDBMapper mapper() {
         return new DynamoDBMapper(amazonDynamoDBConfig());
