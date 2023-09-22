@@ -15,5 +15,5 @@ function programOutcomes(){
 }
 
 function organization(){
-   location.href = 'http://localhost:8080/organization';
+   location.href = 'http://localhost:8080/OrgList';
 }

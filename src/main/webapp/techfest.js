@@ -84,6 +84,72 @@ function createBar() {
 }
 
 
+function createStackBar(element, data) {
+//  var dom = document.getElementById('container');
+      var myChart = echarts.init(element, null, {
+        renderer: 'canvas',
+        useDirtyRect: false
+      });
+      var app = {};
+
+      var option;
+
+      option = {
+    tooltip: {
+      trigger: 'axis',
+      axisPointer: {
+        type: 'shadow'
+      }
+    },
+    legend: {},
+    grid: {
+      left: '3%',
+      right: '4%',
+      bottom: '3%',
+      containLabel: true
+    },
+    xAxis: [
+      {
+        type: 'category',
+        data: data.columns
+      }
+    ],
+    yAxis: [
+      {
+        type: 'value'
+      }
+    ],
+    series: [
+
+      {
+        name: 'Current',
+        type: 'bar',
+        stack: 'Ad',
+        emphasis: {
+          focus: 'series'
+        },
+        data: data.currentValues
+      },
+      {
+        name: 'Historical',
+        type: 'bar',
+        stack: 'Ad',
+        emphasis: {
+          focus: 'series'
+        },
+        data: data.historicValues
+      }
+    ]
+  };
+
+      if (option && typeof option === 'object') {
+        myChart.setOption(option);
+      }
+
+      window.addEventListener('resize', myChart.resize);
+}
+
+
 $("#demographicBreakdown").on("click", function() {
 //  var data = {
 //    name: 'Gender breakdown',
@@ -120,7 +186,14 @@ $("#demographicBreakdown").on("click", function() {
 
 });
 
+$("#OpiateStatistics").on("click", function() {
 
+$.get("getSubstanceInfo").done(function(data) {
 
+         var ageElement = document.getElementById('OpiateStatisticsChart');
 
-//createBar();
+          const jsondata = JSON.parse(data);
+            createStackBar(ageElement, jsondata);
+          });
+
+});

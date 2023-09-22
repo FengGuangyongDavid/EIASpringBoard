@@ -59,7 +59,7 @@ public class GlobalController {
 	public String orgList(Map<String, Object> model) {
 		List<Organization> organizationList = orgService.getAllOrgs();
 		model.put("orgList",organizationList);
-		return "orgList";
+		return "organization";
 	}
 	
 	@GetMapping("/delete")

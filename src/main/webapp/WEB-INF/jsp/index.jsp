@@ -2,6 +2,15 @@
 
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+
+
+<%
+    String path = request.getContextPath();
+    String basePath = request.getScheme() + "://" + request.getServerName() + ":" + request.getServerPort() + path + "/" ;
+%>
+<base href = "<%=basePath%>">
+
+
 <html>
 <head>
     <title>Welcome</title>
@@ -99,7 +108,8 @@
                         不同li节点的值不能是一样的
                     -->
                     <li>
-                        <a href="#" onclick="return participantPage()" data-toggle="collapse" class="collapsed"><i class="lnr lnr-cog"></i>
+                        <%--href="<%=basePath%>ParticipantList"--%>
+                        <a onclick="return participantPage()" data-toggle="collapse" class="collapsed"><i class="lnr lnr-cog"></i>
                             <span>Participant</span> <i class="icon-submenu lnr lnr-chevron-left"></i></a>
 
                     </li>

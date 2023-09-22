@@ -126,8 +126,7 @@
 
     <div class="main">
 
-
-
+        <div id="OpiateStatisticsChart" style="width: 600px;height:400px; display: inline-block;"></div>
 
     </div>
 
@@ -143,6 +142,7 @@
 <script src="/static/assets/js/index.js"></script>
 <script src="/static/assets/vendor/jquery/jquery-3.7.1.js"></script>
 <script src="/static/assets/js/echarts.min.js"></script>
+<script src="/static/assets/js/opiateStatics.js"></script>
 <script type="text/javascript">
     clock();
     var attime;
