@@ -1,23 +1,29 @@
 package com.spring.board.eia.controller;
+import com.google.common.collect.Lists;
+import com.spring.board.eia.entity.File;
 import com.spring.board.eia.service.FileService;
 import com.spring.board.eia.service.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.nio.file.attribute.BasicFileAttributes;
+import java.util.List;
 import java.util.Map;
+
+import static com.spring.board.eia.EIAConstant.*;
 
 @Controller
 public class FileController {
-
-	@Autowired
-	private PersonService personService;
-
 	@Autowired
 	private FileService fileService;
 
@@ -27,7 +33,23 @@ public class FileController {
 	}
 
 	@GetMapping("/file_download")
-	public String downloadFile(Map<String, Object> model) {
+	public String downloadFile(Map<String, Object> model) throws IOException {
+		Path personFile = Paths.get(PERSON_DOWNLOAD_PATH);
+		BasicFileAttributes personFileAttr = Files.readAttributes(personFile, BasicFileAttributes.class);
+		File file1 = new File(PERSON_FILE_NAME, "Person Info", personFileAttr.creationTime().toString());
+
+		Path orgFile = Paths.get(ORG_DOWNLOAD_PATH);
+		BasicFileAttributes orgFileAttr = Files.readAttributes(orgFile, BasicFileAttributes.class);
+		File file2 = new File(ORG_FILE_NAME, "Organization Info", orgFileAttr.creationTime().toString());
+
+		List<File> fileList = Lists.newArrayList(file1, file2);
+		model.put("fileList",fileList);
+		return "file_download";
+	}
+
+	@GetMapping("/generate_file")
+	public String generateFile(Map<String, Object> model) throws IOException {
+		fileService.generateFile();
 		return "file_download";
 	}
 
@@ -37,9 +59,9 @@ public class FileController {
 		return "file_result";
 	}
 
-	@GetMapping("/do_download")
-	public String doDownload(HttpServletRequest request, HttpServletResponse response) throws IOException {
-		fileService.doDownload(request, response);
+	@GetMapping("/do_download*")
+	public String doDownload(@RequestParam("name") String fileName, HttpServletRequest request, HttpServletResponse response) throws IOException {
+		fileService.doDownload(fileName, request, response);
 		return "file_result";
 	}
 }
