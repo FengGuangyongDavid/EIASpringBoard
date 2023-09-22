@@ -22,15 +22,15 @@ public class OutcomesController {
 
         List<Person> personList = repository.findPersons();
         long totalPersonNo = personList.size();
-        long getPermanentHouseNo = personList.stream().filter(person -> person.getPermanentHouse().equalsIgnoreCase("yes")).count();
+        long getPermanentHouseNo = personList.stream().filter(person -> person.getPermanentHouse().equalsIgnoreCase("y")).count();
         long incarceratedNo = personList.stream().filter(person -> person.getCabinStatus().equalsIgnoreCase("active")).count();
-        long entrustedAssertiveCommunityNo = personList.stream().filter(person -> person.getEntrustedAssertiveCommunity().equalsIgnoreCase("yes")).count();
-        long livePeopleNo = personList.stream().filter(person -> person.getLive().equalsIgnoreCase("yes")).count();
-        //long longerTermSubstanceReturnNo = personList.stream().filter(person -> person.getLongerTermSubstanceReturn().equalsIgnoreCase("yes")).count();
-        long decidedMoveNo = personList.stream().filter(person -> person.getDecidedMove().equalsIgnoreCase("yes")).count();
-        long exitByRuleViolationsNo = personList.stream().filter(person -> person.getExitByRuleViolations().equalsIgnoreCase("yes")).count();
+        long entrustedAssertiveCommunityNo = personList.stream().filter(person -> person.getEntrustedAssertiveCommunity().equalsIgnoreCase("y")).count();
+        long livePeopleNo = personList.stream().filter(person -> person.getLive().equalsIgnoreCase("y")).count();
+        //long longerTermSubstanceReturnNo = personList.stream().filter(person -> person.getLongerTermSubstanceReturn().equalsIgnoreCase("y")).count();
+        long decidedMoveNo = personList.stream().filter(person -> person.getDecidedMove().equalsIgnoreCase("y")).count();
+        long exitByRuleViolationsNo = personList.stream().filter(person -> person.getExitByRuleViolations().equalsIgnoreCase("y")).count();
  //       long connectedToMHProviderNo = personList.stream().filter(person -> !person.getMHProvider().isEmpty()).count();
-   //     long documentationAssistanceNo = personList.stream().filter(person -> person.getDocumentationAssistance().equalsIgnoreCase("yes")).count();
+   //     long documentationAssistanceNo = personList.stream().filter(person -> person.getDocumentationAssistance().equalsIgnoreCase("y")).count();
      //   long getAchievementsNo = personList.stream().filter(person -> !person.getAchievements().isEmpty()).count();
         Map<String,List> result = new HashMap<>();
         result.put("category", Lists.newArrayList("#total","#getPermanentHouse",
