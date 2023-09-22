@@ -14,7 +14,8 @@ function createBar(element, data) {
   var option = {
     tooltip: {},
     legend: {
-      data: ['outcome']
+        top: '5%',
+        left: 'center'
     },
     xAxis: {
       data: data.category
@@ -22,7 +23,7 @@ function createBar(element, data) {
     yAxis: {},
     series: [
       {
-        name: 'outcome',
+        name: 'Program Outcomes',
         type: 'bar',
         data: data.data
       }

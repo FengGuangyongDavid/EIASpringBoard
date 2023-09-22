@@ -125,7 +125,7 @@
     <!-- 左侧栏结束 -->
 
     <div class="main">
-        <div id="programOutcome" style="width: 1000px;height:400px;display: inline-block;"></div>
+        <div id="programOutcome" style="width: 1000px;height:700px;display: inline-block;"></div>
     </div>
 
 </div>
