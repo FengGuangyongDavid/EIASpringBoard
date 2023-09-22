@@ -11,11 +11,13 @@ import lombok.NoArgsConstructor;
 import java.io.Serializable;
 public class File implements Serializable {
     private String name;
+    private String category;
     private String desc;
     private String updatedTime;
 
-    public File(String name, String desc, String updatedTime) {
+    public File(String name, String category, String desc, String updatedTime) {
         this.name = name;
+        this.category = category;
         this.desc = desc;
         this.updatedTime = updatedTime;
     }
@@ -30,5 +32,9 @@ public class File implements Serializable {
 
     public String getUpdatedTime() {
         return updatedTime;
+    }
+
+    public String getCategory() {
+        return category;
     }
 }

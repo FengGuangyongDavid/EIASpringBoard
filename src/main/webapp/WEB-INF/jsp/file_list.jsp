@@ -11,7 +11,7 @@
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
-  width: 60%;
+  width: 70%;
 }
 
 td, th {
@@ -24,22 +24,28 @@ td, th {
 <body>
 <%@ include file="menu.jsp"%>
 <div style="margin-top:50px; text-align:center; height:50px;">
-				<h3>Participant List</h3>
+				<h3>File List</h3>
 				<hr>
 				<div class="table-responsive">
-	<table style="margin-top: 0px;margin-left: 100px; ">
+	<table align="center">
 		<tr>
 		    <th>File Name</th>
+		    <th>Category</th>
 			<th>File Desc</th>
 			<th>Updated Time</th>
-			<th></th>
 		</tr>
 		<c:forEach items="${fileList}" var="file">
 			<tr>
 				<td>${file.name}</td>
+				<td>${file.category}</td>
 				<td>${file.desc}</td>
 				<td>${file.updatedTime}</td>
 				<td><a href="do_download?name=${file.name}">download</a></td>
+				<td>
+				    <form action="do_upload" method="post" enctype="multipart/form-data">
+                    <input type="file" name="${file.name}" size="50" /><input type="submit" value="Upload" />
+                    </form>
+				</td>
 			</tr>
 		</c:forEach>
 	</table>

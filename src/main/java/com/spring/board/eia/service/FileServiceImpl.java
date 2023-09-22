@@ -1,5 +1,6 @@
 package com.spring.board.eia.service;
 
+import com.google.common.base.Strings;
 import com.spring.board.eia.entity.Organization;
 import com.spring.board.eia.entity.Person;
 import org.apache.commons.fileupload.FileItem;
@@ -8,6 +9,10 @@ import org.apache.commons.fileupload.servlet.ServletFileUpload;
 import org.apache.poi.hssf.usermodel.HSSFRow;
 import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.Workbook;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -33,14 +38,110 @@ public class FileServiceImpl implements FileService {
             List<FileItem> fileItems = new ServletFileUpload(new DiskFileItemFactory()).parseRequest(request);
             for (FileItem fileItem : fileItems) {
                 if (!fileItem.isFormField()) {
-                    String name = new File(fileItem.getName()).getName();
-                    fileItem.write(new File(UPLOAD_PATH + name));
+                    String fileName = fileItem.getName().toLowerCase();
+                    if (fileName.contains("person")) {
+                        fileName = PERSON_FILE_NAME;
+                    } else if (fileName.contains("org")) {
+                        fileName = ORG_FILE_NAME;
+                    } else {
+                        request.setAttribute("eia_message", "Please choose a file.");
+                        return;
+                    }
+
+                    File file = new File(UPLOAD_PATH + fileName);
+                    fileItem.write(file);
+
+                    if (fileName.equals(PERSON_FILE_NAME))
+                        refreshPerson(file);
+                    else if (fileName.equals(ORG_FILE_NAME))
+                        refreshOrg(file);
                 }
             }
+            generateFile();
             request.setAttribute("eia_message", "File uploaded successfully");
         } catch (Exception ex) {
             request.setAttribute("eia_message", "File upload failed due to " + ex);
         }
+    }
+
+    private void refreshPerson(File file) throws IOException {
+        FileInputStream fileIs = new FileInputStream(file);
+        Workbook workbook = new HSSFWorkbook(fileIs);
+        Sheet sheet = workbook.getSheetAt(0);
+        int i = 0;
+        for (Row row : sheet) {
+            if (i == 0) {
+                i++;
+                continue;
+            } else
+                i++;
+
+            Person person = new Person();
+            person.setPersonId(getNullableStr(row.getCell(0)));
+            person.setCabinNo(getNullableStr(row.getCell(1)));
+            person.setFirstName(getNullableStr(row.getCell(2)));
+            person.setLastName(getNullableStr(row.getCell(3)));
+            person.setMHProvider(getNullableStr(row.getCell(4)));
+            person.setSUDProvider(getNullableStr(row.getCell(5)));
+            person.setCaseManagement(getNullableStr(row.getCell(6)));
+            person.setNeed(getNullableStr(row.getCell(7)));
+            person.setPhoneNo(getNullableStr(row.getCell(8)));
+            person.setCabinStatus(getNullableStr(row.getCell(9)));
+            person.setStartDate(Double.valueOf(row.getCell(10).getNumericCellValue()).intValue());
+            person.setEndDate(Double.valueOf(row.getCell(11).getNumericCellValue()).intValue());
+            person.setGender(getNullableStr(row.getCell(12)));
+            person.setRacial(getNullableStr(row.getCell(13)));
+            person.setAge(Double.valueOf(row.getCell(14).getNumericCellValue()).intValue());
+            person.setHistoryOfUse(getNullableStr(row.getCell(15)));
+            person.setActiveUser(getNullableStr(row.getCell(16)));
+            person.setActiveOtherSubstances(getNullableStr(row.getCell(17)));
+            person.setPreviousUser(getNullableStr(row.getCell(18)));
+            person.setOpiateTreatmentAtResidency(getNullableStr(row.getCell(19)));
+            person.setInTreatmentForOtherSubstances(getNullableStr(row.getCell(20)));
+            person.setInMentalHealthTreatment(getNullableStr(row.getCell(21)));
+            person.setNameOfProvider(getNullableStr(row.getCell(22)));
+            person.setDualDX(getNullableStr(row.getCell(23)));
+            person.setPermanentHouse(getNullableStr(row.getCell(24)));
+            person.setEntrustedAssertiveCommunity(getNullableStr(row.getCell(25)));
+            person.setLive(getNullableStr(row.getCell(26)));
+            person.setLongerTermSubstanceReturn(getNullableStr(row.getCell(27)));
+            person.setDecidedMove(getNullableStr(row.getCell(28)));
+            person.setExitByRuleViolations(getNullableStr(row.getCell(29)));
+            person.setDocumentationAssistance(getNullableStr(row.getCell(30)));
+            person.setAchievements(getNullableStr(row.getCell(31)));
+            personService.deletePerson(person.getPersonId());
+            personService.createNewPerson(person);
+        }
+        System.out.println("Refreshed " + i + " persons");
+    }
+
+    private String getNullableStr(Cell cell) {
+        if (cell == null)
+            return "";
+        else
+            return Strings.isNullOrEmpty(cell.getStringCellValue()) ? "" : cell.getStringCellValue();
+    }
+
+    private void refreshOrg(File file) throws IOException {
+        FileInputStream fileIs = new FileInputStream(file);
+        Workbook workbook = new HSSFWorkbook(fileIs);
+        Sheet sheet = workbook.getSheetAt(0);
+        int i = 0;
+        for (Row row : sheet) {
+            if (i == 0) {
+                i++;
+                continue;
+            } else
+                i++;
+
+            Organization org = new Organization();
+            org.setOrgId(row.getCell(0).getStringCellValue());
+            org.setOrgName(row.getCell(1).getStringCellValue());
+            org.setService(row.getCell(2).getStringCellValue());
+            orgService.deleteOrg(org.getOrgId());
+            orgService.createNewOrg(org);
+        }
+        System.out.println("Refreshed " + i + " orgs");
     }
 
     @Override
@@ -142,6 +243,9 @@ public class FileServiceImpl implements FileService {
             i++;
         }
 
+        File existingFile = new File(PERSON_DOWNLOAD_PATH);
+        if (existingFile.exists())
+            existingFile.delete();
         FileOutputStream fileOut = new FileOutputStream(PERSON_DOWNLOAD_PATH);
         workbook.write(fileOut);
         fileOut.close();
@@ -167,6 +271,10 @@ public class FileServiceImpl implements FileService {
             row.createCell(2).setCellValue(org.getService());
             i++;
         }
+
+        File existingFile = new File(ORG_DOWNLOAD_PATH);
+        if (existingFile.exists())
+            existingFile.delete();
 
         FileOutputStream fileOut = new FileOutputStream(ORG_DOWNLOAD_PATH);
         workbook.write(fileOut);
