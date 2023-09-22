@@ -1,7 +1,7 @@
 
-function createGenderPie(data) {
+function createGenderPie(element, data) {
 // 基于准备好的dom，初始化echarts实例
-var genderChart = echarts.init(document.getElementById('gender'));
+var genderChart = echarts.init(element);
 
 var option = {
 tooltip: {
@@ -84,7 +84,7 @@ function createBar() {
 }
 
 
-$("#genderBreakdown").on("click", function() {
+$("#demographicBreakdown").on("click", function() {
 //  var data = {
 //    name: 'Gender breakdown',
 //    data: [
@@ -95,12 +95,29 @@ $("#genderBreakdown").on("click", function() {
 
  $.get("getGenderInfo").done(function(data) {
 
- const jsondata = JSON.parse(data);
-   createGenderPie(jsondata);
- });
+ var genderElement = document.getElementById('gender');
 
-//console.log("hello");
-//  createGenderPie(data);
+ const genderData = JSON.parse(data);
+   createGenderPie(genderElement, genderData);
+
+     });
+
+ $.get("getRacialInfo").done(function(data) {
+
+     var raceElement = document.getElementById('race');
+
+      const jsondata = JSON.parse(data);
+        createGenderPie(raceElement, jsondata);
+      });
+
+ $.get("getAgeInfo").done(function(data) {
+
+         var ageElement = document.getElementById('age');
+
+          const jsondata = JSON.parse(data);
+            createGenderPie(ageElement, jsondata);
+          });
+
 });
 
 
